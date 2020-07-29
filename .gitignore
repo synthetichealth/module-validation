@@ -21,9 +21,9 @@ __pycache__
 *.egg-info
 *~
 *.bak
-.ipynb_checkpoints
+**/.ipynb_checkpoints
 .tox
-.DS_Store
+**/.DS_Store
 \#*#
 .#*
 .coverage
